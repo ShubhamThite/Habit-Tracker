@@ -91,7 +91,7 @@ $ node index.js
 
 # Habit Tracker API DOCUMENTATION
 
-# Endpoints :-
+Endpoints :-
 
 User Authentication -
 1. Login
